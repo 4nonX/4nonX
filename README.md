@@ -1,5 +1,10 @@
 # 💫 About Me:
-Self-taught systems developer and IT professional based in Munich.<br>Building D-PlaneOS — a source available NAS OS in Go with ZFS, Docker, full RBAC, and NAS protocol management. Running a homelab with 40+ containerised services as my personal proving ground.<br>Day job: IT Support at a systems integrator. I build things I actually want to use.
+Self-taught systems developer based in Munich, Germany.
+
+I design and build D-PlaneOS — a ZFS-first NAS operating system focused on immutability, reproducibility, and operator safety. My homelab (40+ containerised services, 30TB+) serves as a real-world proving ground for infrastructure design decisions.
+
+Day job: IT Support at a systems integrator.
+Engineering focus: systems architecture, storage, automation, and operational safety.
 
 
 ## 🌐 Socials:
