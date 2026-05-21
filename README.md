@@ -2,7 +2,7 @@
 
 I build **DPlaneOS** - a ZFS-first, NixOS-native storage control plane written in Go. The goal: make storage operators' lives less terrifying. Immutable infra, declarative state, real HA, and no `sudo zpool destroy` regrets at 2am.
 
-Munich-based. IT infrastructure by day, systems work by night. My homelab — 60+ containerised services across ~33TB — is where DPlaneOS gets stress-tested against the messy reality of self-hosted everything.
+Munich-based. IT infrastructure by day, systems work by night. My personal homelab consists of 60+ containerised services across ~33TB is where DPlaneOS gets stress-tested against the messy reality of self-hosted everything.
 
 Currently interested in distributed systems, storage internals, NixOS, and the strange satisfaction of a well-designed `systemd` unit.
 
